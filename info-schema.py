@@ -69,7 +69,7 @@ def fetch_database_metadata():
 
 # Placeholder for another function
 def another_function():
-    print("This is another function. Add your logic here.")
+    print("This is another function. Coming Soon - if need be!")
 
 # Main function to handle user input
 def main():
